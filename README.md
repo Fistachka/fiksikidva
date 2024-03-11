@@ -1,5 +1,5 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
-https://www.youtube.com/watch?v=9MH5RgPdmRE
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9MH5RgPdmRE?si=mrSQlTwRVSBCsbKn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br><br>
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
-https://www.youtube.com/watch?v=9MH5RgPdmRE<br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9MH5RgPdmRE?si=mrSQlTwRVSBCsbKn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br>
